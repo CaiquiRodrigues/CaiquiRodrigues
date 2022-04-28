@@ -6,7 +6,6 @@
 
 </p>
 
-- 👋 Olá, me chamo Caiqui Rodrigues.
 - 📝 Estudante de Análise e Desenvolvimento de Sistemas. 
 - 🌱 Atualmente estou me especializando em Power BI e SQL.
 - ⚡ Excel Avançado.
