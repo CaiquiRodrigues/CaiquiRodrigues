@@ -1,6 +1,6 @@
 
 <h1 align="center">Oi 👋, Me chamo Caiqui Rodrigues</h1>
-<h3 align="center">Um entusiasta em Analytics e BI</h3>
+<h2 align="center">Um entusiasta em Analytics e BI</h2>
 
 
 
