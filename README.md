@@ -7,7 +7,7 @@
 </p>
 
 - 📝 Estudante de Análise e Desenvolvimento de Sistemas. 
-- 🌱 Atualmente estou me especializando em Power BI e SQL.
+- 🌱 Atualmente estou me especializando em Tableau e SQL.
 - ⚡ Excel Avançado.
 
 
